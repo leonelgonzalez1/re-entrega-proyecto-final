@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": " La gran chamaca",
+    "foto": "img/hamburguesa2.jpg",
+    "precio": 1900,
+    "ingredientes": "doble carne, cheddar, salsa especial,tomate, pan parmesano, pepinillos, lechuga"
+  },
+  {
+    "id": 1,
+    "nombre": "Doble cuarto",
+    "foto": "img/hamburguesa1.jpg",
+    "precio": 1900,
+    "ingredientes": "doble carne, cheddar, cebolla, bacon, manteca"
+  },
+  {
+    "id": 1,
+    "nombre": " Mexicana",
+    "foto": "img/hamburguesa2.jpg",
+    "precio": 1900,
+    "ingredientes": "doble carne, cheddar, bacon, jalapeños, huevo"
+  },
+  {
+    "id": 1,
+    "nombre": " Texana",
+    "foto": "img/hamburguesa3.jpg",
+    "precio": 1900,
+    "ingredientes": "doble carne, cheddar, bacon, morron, cebolla confitada"
+  }
+]
